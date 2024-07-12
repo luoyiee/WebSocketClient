@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="TUIBaseLivelyTheme" parent="@style/TUIBaseTheme">
+        <item name="core_light_bg_title_text_color">@color/core_light_bg_title_text_color_lively</item>
+        <item name="core_light_bg_primary_text_color">@color/core_light_bg_primary_text_color_lively</item>
+        <item name="core_light_bg_secondary_text_color">@color/core_light_bg_secondary_text_color_lively</item>
+        <item name="core_light_bg_secondary2_text_color">@color/core_light_bg_secondary2_text_color_lively</item>
+        <item name="core_light_bg_disable_text_color">@color/core_light_bg_disable_text_color_lively</item>
+        <item name="core_dark_bg_primary_text_color">@color/core_dark_bg_primary_text_color_lively</item>
+        <item name="core_primary_bg_color">@color/core_primary_bg_color_lively</item>
+        <item name="core_bg_color">@color/core_bg_color_lively</item>
+        <item name="core_primary_color">@color/core_primary_color_lively</item>
+        <item name="core_error_tip_color">@color/core_error_tip_color_lively</item>
+        <item name="core_success_tip_color">@color/core_success_tip_color_lively</item>
+        <item name="core_bubble_bg_color">@color/core_bubble_bg_color_lively</item>
+        <item name="core_divide_color">@color/core_divide_color_lively</item>
+        <item name="core_border_color">@color/core_border_color_lively</item>
+        <item name="core_header_start_color">@color/core_header_start_color_lively</item>
+        <item name="core_header_end_color">@color/core_header_end_color_lively</item>
+        <item name="core_header_text_color">@color/core_header_text_color_lively</item>
+        <item name="core_btn_normal_color">@color/core_btn_normal_color_lively</item>
+        <item name="core_btn_pressed_color">@color/core_btn_pressed_color_lively</item>
+        <item name="core_btn_disable_color">@color/core_btn_disable_color_lively</item>
+    </style>
+
+    <style name="TUIChatLivelyTheme" parent="TUIBaseLivelyTheme">
+        <item name="chat_input_area_bg">@color/chat_input_layout_bg_lively</item>
+
+        <item name="chat_unread_dot_bg_color">@color/chat_unread_dot_bg_color_lively</item>
+        <item name="chat_unread_dot_text_color">?attr/core_primary_color</item>
+
+        <item name="chat_title_bar_more_menu">@drawable/chat_title_bar_more_menu_lively</item>
+
+        <item name="chat_other_msg_text_color">@color/chat_other_msg_text_color_lively</item>
+        <item name="chat_self_msg_text_color">@color/chat_self_msg_text_color_lively</item>
+        <item name="chat_self_custom_msg_text_color">@color/chat_self_custom_msg_text_color_lively</item>
+        <item name="chat_other_custom_msg_text_color">@color/chat_other_custom_msg_text_color_lively</item>
+        <item name="chat_self_custom_msg_link_color">@color/chat_self_custom_msg_link_color_lively</item>
+        <item name="chat_other_custom_msg_link_color">@color/chat_other_custom_msg_link_color_lively</item>
+
+        <item name="chat_tip_text_color">@color/chat_tip_text_color_lively</item>
+
+        <item name="chat_self_reply_quote_bg_color">@color/chat_self_reply_quote_bg_color_lively</item>
+        <item name="chat_other_reply_quote_bg_color">@color/chat_other_reply_quote_bg_color_lively</item>
+        <item name="chat_self_reply_line_bg_color">@color/chat_self_reply_line_bg_color_lively</item>
+        <item name="chat_other_reply_line_bg_color">@color/chat_other_reply_line_bg_color_lively</item>
+        <item name="chat_self_reply_quote_text_color">@color/chat_self_reply_quote_text_color_lively</item>
+        <item name="chat_other_reply_quote_text_color">@color/chat_other_reply_quote_text_color_lively</item>
+        <item name="chat_self_reply_text_color">@color/chat_self_reply_text_color_lively</item>
+        <item name="chat_other_reply_text_color">@color/chat_other_reply_text_color_lively</item>
+
+        <item name="chat_jump_recent_down_icon">@drawable/chat_ic_arrow_down_lively</item>
+        <item name="chat_jump_recent_up_icon">@drawable/chat_ic_arrow_up_lively</item>
+
+        <item name="chat_pressed_bg_color">@color/chat_pressed_bg_color_lively</item>
+    </style>
+
+</resources>

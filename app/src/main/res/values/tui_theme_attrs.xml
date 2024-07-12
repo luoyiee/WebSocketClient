@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="core_light_bg_title_text_color" format="reference|color"/>
+    <attr name="core_light_bg_primary_text_color" format="reference|color"/>
+    <attr name="core_light_bg_secondary_text_color" format="reference|color"/>
+    <attr name="core_light_bg_secondary2_text_color" format="reference|color"/>
+    <attr name="core_light_bg_disable_text_color" format="reference|color"/>
+    <attr name="core_dark_bg_primary_text_color" format="reference|color"/>
+    <attr name="core_primary_bg_color" format="reference|color"/>
+    <attr name="core_bg_color" format="reference|color"/>
+    <attr name="core_primary_color" format="reference|color"/>
+    <attr name="core_error_tip_color" format="reference|color"/>
+    <attr name="core_success_tip_color" format="reference|color"/>
+    <attr name="core_bubble_bg_color" format="reference|color"/>
+    <attr name="core_divide_color" format="reference|color"/>
+    <attr name="core_border_color" format="reference|color"/>
+    <attr name="core_header_start_color" format="reference|color"/>
+    <attr name="core_header_end_color" format="reference|color"/>
+    <attr name="core_header_text_color" format="reference|color"/>
+
+    <attr name="core_btn_normal_color" format="reference|color"/>
+    <attr name="core_btn_pressed_color" format="reference|color"/>
+    <attr name="core_btn_disable_color" format="reference|color"/>
+
+
+
+    <attr name="chat_input_area_bg" format="reference|color"/>
+
+    <attr name="chat_unread_dot_bg_color" format="color|reference"/>
+    <attr name="chat_unread_dot_text_color" format="color|reference"/>
+
+    <attr name="chat_title_bar_more_menu" format="reference"/>
+
+    <attr name="chat_other_msg_text_color" format="reference|color"/>
+    <attr name="chat_self_msg_text_color" format="reference|color"/>
+
+    <attr name="chat_self_custom_msg_text_color" format="reference|color"/>
+    <attr name="chat_other_custom_msg_text_color" format="reference|color"/>
+    <attr name="chat_self_custom_msg_link_color" format="reference|color"/>
+    <attr name="chat_other_custom_msg_link_color" format="reference|color"/>
+
+    <attr name="chat_tip_text_color" format="reference|color"/>
+
+    <attr name="chat_self_reply_quote_bg_color" format="reference|color"/>
+    <attr name="chat_other_reply_quote_bg_color" format="reference|color"/>
+    <attr name="chat_self_reply_line_bg_color" format="reference|color"/>
+    <attr name="chat_other_reply_line_bg_color" format="reference|color"/>
+    <attr name="chat_self_reply_quote_text_color" format="reference|color"/>
+    <attr name="chat_other_reply_quote_text_color" format="reference|color"/>
+    <attr name="chat_self_reply_text_color" format="reference|color"/>
+    <attr name="chat_other_reply_text_color" format="reference|color"/>
+
+    <attr name="chat_jump_recent_down_icon" format="reference"/>
+    <attr name="chat_jump_recent_up_icon" format="reference"/>
+
+    <attr name="chat_pressed_bg_color" format="reference|color"/>
+
+
+
+</resources>
